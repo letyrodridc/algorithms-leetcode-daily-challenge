@@ -3,9 +3,9 @@ Leetcode problems solved
 
 This repository contains some leetcode problems solved in Python. Some were daily challenge, others part of algorithms, interviews, or special topics like divide and conquer.
 
-To see my profile in leetcode:
+To see my profile in leetcode: https://leetcode.com/letyrodri/
 
-More about leetcode:
+More about leetcode: https://leetcode.com/
 
 #### Problems solved
 
