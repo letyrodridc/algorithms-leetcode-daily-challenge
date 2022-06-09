@@ -7,14 +7,21 @@ To see my profile in leetcode: https://leetcode.com/letyrodri/
 
 More about leetcode: https://leetcode.com/
 
-#### Problems solved
+## Problems solved
+
+_single-number_
+https://leetcode.com/problems/single-number/
+
+### Binary trees
+
+_maximum-depth-of-binary-tree_
+https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+### Dynamic Programming
 
 _coin-change_
 This is the classical coin change problem but solved with Dynamic Programming.
 https://leetcode.com/problems/coin-change
 
-_maximum-depth-of-binary-tree_
-https://leetcode.com/problems/maximum-depth-of-binary-tree/
-
-_single-number_
-https://leetcode.com/problems/single-number/
+_best-time-to-buy-and-sell-stock_
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock
