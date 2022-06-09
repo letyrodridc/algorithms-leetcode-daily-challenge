@@ -12,6 +12,10 @@ More about leetcode: https://leetcode.com/
 _single-number_
 https://leetcode.com/problems/single-number/
 
+### Linked List
+_merge-two-sorted-lists_
+https://leetcode.com/problems/merge-two-sorted-lists/
+
 ### Binary trees
 
 _maximum-depth-of-binary-tree_
